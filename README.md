@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning linux and programming.
 - 💞️ I’m looking to collaborate on instagram my handle is shajith_YT
 - 📫 How to reach me shajith240@gmail.com || shajith_YT (instagram) 
-- 😄 Pronouns: DONT SHOW ME YOUR ATTITUDE AS YOU CANT'T HANDLE MINE.
+- 😄 Pronouns: DON'T SHOW ME YOUR ATTITUDE AS YOU CANT'T HANDLE MINE.
 - ⚡ Fun fact: JUST KIDDING.
 
 <!---
