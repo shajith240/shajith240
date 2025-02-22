@@ -16,13 +16,6 @@ Want to collaborate? I love working on cool projects, especially in the AI, web 
 💬 **Let’s Chat**:  
 I'm active on Instagram as **[@shajith_YT](https://www.instagram.com/shajith_YT)**. Feel free to slide into my DMs or send me an email at **shajith240@gmail.com**—let’s connect! 💻📲  
 
-😎 **Fun Fact & Motto**:  
-“**I don't do attitude, but if you show me yours, you better be ready for mine! 😎**”  
-
-⚡ **Fun Fact**:  
-I'm a mix of code and fun. Don’t believe me? Just ask! 😄 *No code without a little humor!*  
-
----
 
 
 
