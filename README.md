@@ -9,7 +9,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  ANIMATED TYPING  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=🚀+Building+scalable+full-stack+applications;💡+Turning+complex+ideas+into+elegant+products;⚡+TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL;🔧+Automating+everything+—+even+my+WiFi+setup;🌐+Let's+build+something+remarkable+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Building+scalable+full-stack+applications;Turning+complex+ideas+into+elegant+products;TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL;Automating+everything+%E2%80%94+even+my+WiFi+setup;Let%27s+build+something+remarkable+together%21" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -231,7 +231,7 @@ const shajith: Developer = {
 ## 🥇 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shajith240&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shajith240&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=10" width="100%" />
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -269,7 +269,7 @@ const shajith: Developer = {
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=💌+Open+to+freelance%2C+full-time%2C+and+open-source+collaboration!" alt="Open to opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=650&height=35&lines=Open+to+freelance%2C+full-time%2C+and+open-source+collaboration!" alt="Open to opportunities" />
 
 </div>
 
