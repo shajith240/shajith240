@@ -1,82 +1,164 @@
-<!-- Header Banner -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                   SHAJITH'S PREMIUM GITHUB PROFILE                   -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED HEADER  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shajith&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20there%2C%20I'm%20Shajith%20%F0%9F%91%8B&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=21&descColor=79c0ff&descAlignY=60" width="100%" />
 </div>
 
-<!-- Animated Typing -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░  ANIMATED TYPING  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+full-stack+applications+with+modern+tech;Turning+ideas+into+scalable+digital+products" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=🚀+Building+scalable+full-stack+applications;💡+Turning+complex+ideas+into+elegant+products;⚡+TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL;🔧+Automating+everything+—+even+my+WiFi+setup;🌐+Let's+build+something+remarkable+together!" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Profile Views & Social -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  PROFILE STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-  [![Profile Views](https://komarev.com/ghpvc/?username=shajith240&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/shajith240)
-  [![GitHub followers](https://img.shields.io/github/followers/shajith240?style=for-the-badge&color=238636&logo=github&label=Followers)](https://github.com/shajith240?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/shajith240?style=for-the-badge&color=e3b341&logo=github&label=Stars)](https://github.com/shajith240)
+  [![Profile Views](https://komarev.com/ghpvc/?username=shajith240&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/shajith240)
+  [![GitHub Followers](https://img.shields.io/github/followers/shajith240?style=for-the-badge&color=238636&logo=github&label=FOLLOWERS)](https://github.com/shajith240?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/shajith240?style=for-the-badge&color=e3b341&logo=github&label=TOTAL+STARS)](https://github.com/shajith240?tab=repositories)
 
 </div>
 
----
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  SOCIAL CONNECT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_HERE)
+  [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+  [![Twitter / X](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER_HERE)
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<table width="100%" border="0">
+<tr>
+<td valign="top" width="55%">
 
 ## 🧑‍💻 About Me
 
 ```typescript
-const shajith = {
-    role: "Full Stack Developer",
-    code: ["TypeScript", "Python", "Java", "JavaScript"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-        backEnd: ["Node.js", "Python", "Java"],
-        databases: ["PostgreSQL", "SQL"],
-        devOps: ["Docker", "Linux", "Git", "Shell Scripting"],
-        tools: ["VS Code", "GitHub", "Figma"]
-    },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I automate everything — even my WiFi setup has a script"
+const shajith: Developer = {
+  name:     "Shajith",
+  role:     "Full Stack Developer",
+  location: "🌏 Open to Remote",
+
+  passions: [
+    "Building Digital Products",
+    "Clean Architecture",
+    "Automation & DevOps"
+  ],
+
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "Python", "Java"],
+    databases: ["PostgreSQL", "SQL"],
+    devOps:    ["Docker", "Linux", "Git", "Shell Scripting"]
+  },
+
+  currentlyBuilding: "SHARPFLOW — AI-powered productivity suite",
+  openTo: ["Freelance", "Full-time Roles", "Collaboration"],
+  funFact: "I automate everything — even my WiFi setup 😄"
 };
 ```
 
----
+</td>
+<td valign="top" width="45%">
 
-## ⚡ Tech Stack
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 10px;" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░  CURRENTLY BUILDING  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🔭 What I'm Up To
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+🔥 **Active Build**
+<br/>
+[![SHARPFLOW](https://img.shields.io/badge/SHARPFLOW-AI+Productivity-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/shajith240/SHARPFLOW)
+<br/>
+<sub>AI-powered workflow automation suite</sub>
+
+</td>
+<td align="center" width="33%">
+
+📚 **Currently Learning**
+<br/>
+[![System Design](https://img.shields.io/badge/System+Design-Distributed+Systems-8A2BE2?style=for-the-badge&logo=serverless&logoColor=white)](https://github.com/shajith240)
+<br/>
+<sub>Scaling & distributed architecture</sub>
+
+</td>
+<td align="center" width="33%">
+
+🎯 **2026 Goal**
+<br/>
+[![Open Source](https://img.shields.io/badge/Open+Source-Major+Contributions-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shajith240)
+<br/>
+<sub>Contributing to impactful OSS projects</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🖥️ Languages
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&theme=dark&perline=6" />
 
-### Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma&theme=dark&perline=5" />
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,postgresql&theme=dark&perline=4" />
+
+### 🛠️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,bash&theme=dark&perline=6" />
 
 </div>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shajith240&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=238636&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shajith240&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=238636&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajith240&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
@@ -88,12 +170,29 @@ const shajith = {
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- PROFILE SUMMARY CARDS -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajith240&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=238636&area=true&area_color=1f6feb" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shajith240&theme=github_dark" width="97%" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shajith240&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shajith240&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shajith240&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shajith240&theme=github_dark&utcOffset=5.5" width="24%" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajith240&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=238636&area=true&area_color=1f6feb" width="97%" />
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ## 🏆 Featured Projects
 
@@ -102,7 +201,7 @@ const shajith = {
 [![SHARPFLOW](https://github-readme-stats.vercel.app/api/pin/?username=shajith240&repo=SHARPFLOW&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/shajith240/SHARPFLOW)
 [![IntelliDesk](https://github-readme-stats.vercel.app/api/pin/?username=shajith240&repo=intellidesk&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/shajith240/intellidesk)
 
-[![Invoice Scraping](https://github-readme-stats.vercel.app/api/pin/?username=shajith240&repo=INVOICE-SCRAPING-SYSTEM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/shajith240/INVOICE-SCRAPING-SYSTEM)
+[![Invoice Scraping System](https://github-readme-stats.vercel.app/api/pin/?username=shajith240&repo=INVOICE-SCRAPING-SYSTEM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/shajith240/INVOICE-SCRAPING-SYSTEM)
 [![TypeSprint](https://github-readme-stats.vercel.app/api/pin/?username=shajith240&repo=TypeSprint&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/shajith240/TypeSprint)
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shajith240&repo=portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=8b949e)](https://github.com/shajith240/portfolio)
@@ -110,9 +209,12 @@ const shajith = {
 
 </div>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
 
-## 🐍 Contribution Graph
+<!-- ░░░░░░░░░░░░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -122,23 +224,65 @@ const shajith = {
   </picture>
 </div>
 
----
+<br/>
 
-## 🏅 GitHub Trophies
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  GITHUB TROPHIES  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🥇 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shajith240&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shajith240&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
 </div>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  DEV QUOTE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░  LET'S CONNECT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+</a>&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER_HERE">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" />
+</a>&nbsp;
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+</a>&nbsp;
+<a href="https://YOUR_PORTFOLIO_HERE">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=💌+Open+to+freelance%2C+full-time%2C+and+open-source+collaboration!" alt="Open to opportunities" />
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
 
 <br/>
 
-<!-- Connect Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%" />
 
 </div>
