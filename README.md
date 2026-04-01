@@ -44,7 +44,7 @@
 <tr>
 <td valign="top" width="55%">
 
-## 🧑‍💻 About Me
+## About Me
 
 ```typescript
 const shajith: Developer = {
@@ -87,7 +87,7 @@ const shajith: Developer = {
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  CURRENTLY BUILDING  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 🔭 What I'm Up To
+## What I'm Up To
 
 <div align="center">
 <table>
@@ -128,23 +128,23 @@ const shajith: Developer = {
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## ⚡ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### 🖥️ Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css&theme=dark&perline=6" />
 
-### 🚀 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma&theme=dark&perline=5" />
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,java,postgresql&theme=dark&perline=4" />
 
-### 🛠️ DevOps & Tools
+### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,bash&theme=dark&perline=6" />
 
@@ -155,7 +155,7 @@ const shajith: Developer = {
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  GITHUB ANALYTICS  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shajith240&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=238636&count_private=true&include_all_commits=true" />
@@ -212,31 +212,6 @@ const shajith: Developer = {
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shajith240/shajith240/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shajith240/shajith240/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/shajith240/shajith240/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  GITHUB TROPHIES  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🥇 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shajith240&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=10" width="100%" />
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANIMATED DIVIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header&reversal=false" width="100%">
-
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░  DEV QUOTE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ## 💬 Dev Quote of the Day
@@ -276,12 +251,6 @@ const shajith: Developer = {
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-
-<br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%" />
 
