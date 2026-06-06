@@ -40,6 +40,6 @@ Automated document processing workflow for extracting structured invoice data.
 
 ## Links
 
-- Portfolio: https://your-portfolio-link
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your-email@example.com
+- Portfolio: https://shajith-portfolio-seven.vercel.app/
+- LinkedIn: https://linkedin.com/in/shajith240
+- Email: shajith240@gmail.com
